@@ -1,1 +1,4 @@
-"DEVIL Hub OP"
+key = {
+["DEVIL Hub OP"] = true
+}
+return key 
