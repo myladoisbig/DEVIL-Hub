@@ -1,0 +1,15 @@
+supportedgame = {
+[3823781113] = true, --saber sim
+[6284583030] = true, --pet simulator x
+[6872265039] = true, --bed war
+[3956818381] = true, --ninja legend
+[3857052864] = true, --https://www.roblox.com/games/3857052864/The-Rake-Fan-Remake
+[286090429] = true, --arsenal
+[7393403076] = true, --anime artifact
+[7541759836] = true, --https://www.roblox.com/games/7541759836/chinesegameidkwhat
+[7549229959] = true, --Squid Game
+[6679274937] = true, --vans world
+[2986677229] = true --giant sim
+
+}
+return supportedgame 
