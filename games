@@ -33,6 +33,10 @@ else
 										else
 											if place == 2986677229 then --
 											loadstring(game:HttpGet(('https://raw.githubusercontent.com/Prajon/DEVIL-loader-remake/main/Giant-Simulator')))()
+											else
+												if place == 1537690962 then
+												loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/DEVIL-loader-remake/main/Bee-Swarm-Simulator", true))()
+											end
 										end
 									end
 								end		
