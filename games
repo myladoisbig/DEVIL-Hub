@@ -36,6 +36,10 @@ else
 											else
 												if place == 1537690962 then
 												loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/DEVIL-Remake/main/Bee-Swarm-Simulator", true))()
+												else
+													if place == 7508789810 then
+													loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/DEVIL-loader-remake/main/Devious-Lick-Simulator-OP-Script", true))()
+												end
 											end
 										end
 									end
