@@ -10,7 +10,8 @@ supportedgame = {
 [7549229959] = true, --Squid Game
 [6679274937] = true, --vans world
 [2986677229] = true, --giant sim
-[1537690962] = true
+[1537690962] = true, --Bee Swarm Simulator
+[7508789810] = true --😈 Devious Lick Simulator 😈
 
 }
 return supportedgame 
