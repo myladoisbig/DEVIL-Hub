@@ -39,6 +39,10 @@ else
 												else
 													if place == 7508789810 then
 													loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/DEVIL-loader-remake/main/Devious-Lick-Simulator-OP-Script", true))()
+													else
+														if place == 7560156054 then
+														loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/DEVIL-loader-remake/main/Clicker-Simulator", true))()
+													end
 												end
 											end
 										end
