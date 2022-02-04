@@ -13,6 +13,7 @@ supportedgame = {
 [1537690962] = true, --Bee Swarm Simulator
 [7508789810] = true, --😈 Devious Lick Simulator 😈
 [7560156054] = true --clickersimulator
+[3089478851] = true -- wizard simulator
 
 }
 return supportedgame 
