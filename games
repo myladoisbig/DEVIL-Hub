@@ -46,6 +46,10 @@ else
 														else
 															if place == 3089478851 then
 															loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/DEVIL-loader-remake/main/Wizard-Simulator", true))()
+															else
+																if place == 1828509885 then
+																loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/DEVIL-loader-remake/main/Egg-Farm-Simulator", true))()
+															end
 														end
 													end
 												end
