@@ -12,8 +12,9 @@ supportedgame = {
 [2986677229] = true, --giant sim
 [1537690962] = true, --Bee Swarm Simulator
 [7508789810] = true, --😈 Devious Lick Simulator 😈
-[7560156054] = true --clickersimulator
-[3089478851] = true -- wizard simulator
+[7560156054] = true, --clickersimulator
+[3089478851] = true, -- wizard simulator
+[1828509885] = true -- Egg Farm Simulator
 
 }
 return supportedgame 
