@@ -15,7 +15,7 @@ supportedgame = {
 [7560156054] = true, --clickersimulator
 [3089478851] = true, -- wizard simulator
 [1828509885] = true, -- Egg Farm Simulator
-[8592863835] = true
+[8592863835] = true -- Magnet Simulator 2 ⚡
 
 }
 return supportedgame 
