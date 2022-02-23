@@ -52,6 +52,10 @@ else
 																else
 																	if place == 8592863835 then
 																	loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/DEVIL-loader-remake/main/Magnet-Simulator-2", true))()
+																	else
+																		if place == 3101667897 then
+																		loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/DEVIL-loader-remake/main/Legend-Of-Speed", true))()
+																	end
 																end
 															end
 														end
