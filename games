@@ -44,16 +44,16 @@ else
 														if place == 7560156054 then
 														loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/DEVIL-loader-remake/main/Clicker-Simulator", true))()
 														else
-															if place == 3089478851 then
+															if place == 3089478851 then --wizard simulator
 															loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/DEVIL-loader-remake/main/Wizard-Simulator", true))()
 															else
-																if place == 1828509885 then
+																if place == 1828509885 then --egg farm simulator
 																loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/DEVIL-loader-remake/main/Egg-Farm-Simulator", true))()
 																else
-																	if place == 8592863835 then
+																	if place == 8592863835 then --magnet simulator 2
 																	loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/DEVIL-loader-remake/main/Magnet-Simulator-2", true))()
 																	else
-																		if place == 3101667897 then
+																		if place == 3101667897 then --legend of speed
 																		loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/DEVIL-loader-remake/main/Legend-Of-Speed", true))()
 																	end
 																end
