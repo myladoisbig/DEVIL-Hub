@@ -35,9 +35,9 @@ local function AJXPYE_fake_script() -- TextLabel.Script
 	local lp = game.Players.LocalPlayer.Name
 	
 	
-	script.Parent.Text = "Hello " ..lp .." you dont have 'DEVIL_' on your DisplayName please add 'DEVIL_' on your name to use DEVIL's Script"
+	script.Parent.Text = "Hello " ..lp .." you dont have 'DEVIL_' on your DisplayName please add 'DEVIL_' on your DisplayName to use DEVIL's Script"
 	
-	wait(10)
+	wait(15)
 	
 	script.Parent.Parent:Destroy()
 end
