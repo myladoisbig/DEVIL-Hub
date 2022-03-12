@@ -55,6 +55,10 @@ else
 																	else
 																		if place == 3101667897 then --legend of speed
 																		loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/DEVIL-loader-remake/main/Legend-Of-Speed", true))()
+																		else
+																			if place == 3623096087 then
+																			loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/DEVIL-loader-remake/main/Muscle-Legends", true))()
+																		end
 																	end
 																end
 															end
