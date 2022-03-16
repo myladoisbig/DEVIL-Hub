@@ -58,6 +58,10 @@ else
 																		else
 																			if place == 3623096087 then
 																			loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/DEVIL-loader-remake/main/Muscle-Legends", true))()
+																			else
+																				if place == 2629642516 then
+																				loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/DEVIL-loader-remake/main/Bitcoin-Miner", true))()
+																			end
 																		end
 																	end
 																end
