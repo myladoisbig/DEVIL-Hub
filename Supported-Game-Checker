@@ -18,7 +18,8 @@ supportedgame = {
 [8592863835] = true, -- Magnet Simulator 2 ⚡
 [3101667897] = true, --Legend Of Speed
 [3623096087] = true, --Muscle Legends
-[2629642516] = true --Bitcoin Miner
+[2629642516] = true, --Bitcoin Miner
+[8554378337] = true --Weapon Fighting Simulator
 
 }
 return supportedgame 
