@@ -61,6 +61,10 @@ else
 																			else
 																				if place == 2629642516 then
 																				loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/DEVIL-loader-remake/main/Bitcoin-Miner", true))()
+																				else
+																					if place == 8554378337 then
+																					loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/DEVIL-loader-remake/main/Weapon-Fighting-Simulator", true))()
+																				end
 																			end
 																		end
 																	end
