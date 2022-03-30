@@ -64,6 +64,10 @@ else
 																				else
 																					if place == 8554378337 then
 																					loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/DEVIL-loader-remake/main/Weapon-Fighting-Simulator", true))()
+																					else
+																						if place == 8884433153 then
+																						loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/DEVIL-loader-remake/main/Collect-All-Pets", true))()
+																					end
 																				end
 																			end
 																		end
