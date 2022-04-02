@@ -70,6 +70,10 @@ else
 																						else
 																							if place == 8893378293 then
 																							loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/DEVIL-loader-remake/main/GRAMMY-Week", true))()
+																							else
+																								if place == 8750997647 then
+																								loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/DEVIL-loader-remake/main/Tapping-Legend-X", true))()
+																							end
 																						end
 																					end
 																				end
