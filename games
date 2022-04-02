@@ -67,6 +67,10 @@ else
 																					else
 																						if place == 8884433153 then
 																						loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/DEVIL-loader-remake/main/Collect-All-Pets", true))()
+																						else
+																							if place == 8893378293 then
+																							loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/DEVIL-loader-remake/main/GRAMMY-Week", true))()
+																						end
 																					end
 																				end
 																			end
