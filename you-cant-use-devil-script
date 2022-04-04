@@ -35,7 +35,7 @@ local function AJXPYE_fake_script() -- TextLabel.Script
 	local lp = game.Players.LocalPlayer.Name
 	
 	
-	script.Parent.Text = "Hello " ..lp .." you dont have 'DEVIL_' on your DisplayName please add 'DEVIL_' on your DisplayName to use DEVIL's Script. If i found someone bypassing DisplayName will be ban from using any of my script"
+	script.Parent.Text = "Hello " ..lp .." Please join \n www.roblox.com/groups/8939440/SenpaiChou to verify yourself \n if you want any help join discord.gg/FhzbB7hXGr"
 	
 	wait(15)
 	
