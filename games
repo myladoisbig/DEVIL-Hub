@@ -73,6 +73,10 @@ else
 																							else
 																								if place == 8750997647 then
 																								loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/DEVIL-loader-remake/main/Tapping-Legend-X", true))()
+																								else
+																									if place == 9049840490 then
+																									loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/DEVIL-loader-remake/main/Sonic-Speed-Simulator", true))()
+																								end
 																							end
 																						end
 																					end
