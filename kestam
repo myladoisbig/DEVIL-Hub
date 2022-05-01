@@ -1,1 +1,24 @@
-"zixizigijeo"
+local kestam = "zixizigijeo"
+local key = script.Parent.Parent.Key.Text:lower()
+if key:find(kestam) or key:match(kestam) then		
+	print("Correct Key")
+	wait(0.2)
+	script.Parent.Parent.Key.Text = "Correct Key"
+	wait(0.5)
+	pcall(function()
+		spawn(function()
+			for i, v in pairs(game.CoreGui:GetDescendants()) do
+				if v.Name == "DEVIL Hub" then
+					v:Destroy()
+				end
+			end	
+		end)
+		spawn(function()
+			loadstring(game:HttpGet("https://raw.githubusercontent.com/myladoisbig/DEVIL-Hub/main/games"))()
+		end)
+	end)
+else
+	print("Wrong Key")
+	wait(0.2)
+	script.Parent.Parent.Key.Text = "Wrong Key"
+end
