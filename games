@@ -76,6 +76,10 @@ else
 																								else
 																									if place == 9049840490 then
 																									loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/DEVIL-loader-remake/main/Sonic-Speed-Simulator", true))()
+																									else
+																										if place == 8328351891 then
+																										loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/DEVIL-loader-remake/main/Mega-Mansion-Tycoon", true))()
+																									end
 																								end
 																							end
 																						end
