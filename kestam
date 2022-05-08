@@ -1,2 +1,3 @@
-local kestam = "UxzAzxg"
-return kestam
+kestam = {
+ ["UxzAzxg"] = true
+}
