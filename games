@@ -12,7 +12,7 @@ else
 			loadstring(game:HttpGet("https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/main/NewMainScript.lua", true))()
 		else
 			if place == 3956818381 then ---ninja legend
-				loadstring(game:HttpGet('https://system-exodus.com/scripts/ninjalegends/NinjaLegendsV3.lua',true))()
+				loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/DEVIL-loader-remake/main/Ninja-Legend", true))()
 			else
 				if place == 3857052864 then ---https://www.roblox.com/games/3857052864/The-Rake-Fan-Remake
 					loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/DEVIL-loader-remake/main/Rake%20Script"))()
@@ -79,10 +79,7 @@ else
 																									else
 																										if place == 8328351891 then
 																										loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/DEVIL-loader-remake/main/Mega-Mansion-Tycoon", true))()
-																										else
-																											if place == 3956818381 then
-																											loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/DEVIL-loader-remake/main/Ninja-Legend", true))()
-																										end
+																										
 																									end
 																								end
 																							end
