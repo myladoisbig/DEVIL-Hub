@@ -2,107 +2,113 @@ local place = game.PlaceId
 
 
 if place == 3823781113 then -- saber sim
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/Saber-Simulator/main/Saber-Simulator-FREE-SCRIPT", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/Saber-Simulator/main/Saber-Simulator-FREE-SCRIPT", true))()
 else
-	if place == 6284583030 then --- pet simulator x
-		--loadstring(game:HttpGet("https://raw.githubusercontent.com/myladoisbig/yochaipetvannesimulatorho/main/psxkovipwalascript"))()
-		loadstring(game:HttpGet("https://raw.githubusercontent.com/myladoisbig/yochaipetvannesimulatorho/main/yochaiwallywalapsxkoscript"))()
-	else
-		if place == 6872265039 then ---bed war
-			loadstring(game:HttpGet("https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/main/NewMainScript.lua", true))()
-		else
-			if place == 3956818381 then ---ninja legend
-				loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/DEVIL-loader-remake/main/Ninja-Legend", true))()
-			else
-				if place == 3857052864 then ---https://www.roblox.com/games/3857052864/The-Rake-Fan-Remake
-					loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/DEVIL-loader-remake/main/Rake%20Script"))()
-					else
-						if place == 286090429 then ---arsenal
-							loadstring(game:HttpGet(('https://raw.githubusercontent.com/RandomAdamYT/DarkHub/master/Init'), true))()
-						else
-							if place == 7393403076 then ---anime artifact
-								loadstring(game:HttpGet("https://raw.githubusercontent.com/DevPolarhub/AnimeArtifacts/main/script"))()
-							else
-								if place == 7541759836 then ---https://www.roblox.com/games/7541759836/unnamed
-									loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/DEVIL-loader-remake/main/Chinese%20game%20%E5%87%B9%E5%87%B8%E4%B8%96%E7%95%8C%EF%BC%9A%E8%87%AA%E7%94%B1%E4%B8%9B%E6%9E%97"))()
-								else
-									if place == 7549229959 then ---Squid Game
-										loadstring(game:HttpGet(("https://raw.githubusercontent.com/Bebo-Mods/BeboScripts/main/SquidGame.lua")))()
-									else
-										if place == 6679274937 then ---vans world
-											loadstring(game:HttpGet(("https://raw.githubusercontent.com/Prajon/DEVIL-loader-remake/main/Vans%20World")))()
-										else
-											if place == 2986677229 then --
-											loadstring(game:HttpGet(('https://raw.githubusercontent.com/Prajon/DEVIL-loader-remake/main/Giant-Simulator')))()
-											else
-												if place == 1537690962 then
-												loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/DEVIL-Remake/main/Bee-Swarm-Simulator", true))()
-												else
-													if place == 7508789810 then
-													loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/DEVIL-loader-remake/main/Devious-Lick-Simulator-OP-Script", true))()
-													else
-														if place == 7560156054 then
-														loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/DEVIL-loader-remake/main/Clicker-Simulator", true))()
-														else
-															if place == 3089478851 then --wizard simulator
-															loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/DEVIL-loader-remake/main/Wizard-Simulator", true))()
-															else
-																if place == 1828509885 then --egg farm simulator
-																loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/DEVIL-loader-remake/main/Egg-Farm-Simulator", true))()
-																else
-																	if place == 8592863835 then --magnet simulator 2
-																	loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/DEVIL-loader-remake/main/Magnet-Simulator-2", true))()
-																	else
-																		if place == 3101667897 then --legend of speed
-																		loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/DEVIL-loader-remake/main/Legend-Of-Speed", true))()
-																		else
-																			if place == 3623096087 then
-																			loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/DEVIL-loader-remake/main/Muscle-Legends", true))()
-																			else
-																				if place == 2629642516 then
-																				loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/DEVIL-loader-remake/main/Bitcoin-Miner", true))()
-																				else
-																					if place == 8554378337 then
-																					loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/DEVIL-loader-remake/main/Weapon-Fighting-Simulator", true))()
-																					else
-																						if place == 8884433153 then
-																						loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/DEVIL-loader-remake/main/Collect-All-Pets", true))()
-																						else
-																							if place == 8893378293 then
-																							loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/DEVIL-loader-remake/main/GRAMMY-Week", true))()
-																							else
-																								if place == 8750997647 then
-																								loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/DEVIL-loader-remake/main/Tapping-Legend-X", true))()
-																								else
-																									if place == 9049840490 then
-																									loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/DEVIL-loader-remake/main/Sonic-Speed-Simulator", true))()
-																									else
-																										if place == 8328351891 then
-																										loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/DEVIL-loader-remake/main/Mega-Mansion-Tycoon", true))()
-																										
-																									end
-																								end
-																							end
-																						end
-																					end
-																				end
-																			end
-																		end
-																	end
-																end
-															end
-														end
-													end
-												end
-											end
-										end
-									end
-								end		
-							end
-						end
-					end
-				end
-			end
-		end
-	end
+if place == 6284583030 then --- pet simulator x
+--loadstring(game:HttpGet("https://raw.githubusercontent.com/myladoisbig/yochaipetvannesimulatorho/main/psxkovipwalascript"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/myladoisbig/yochaipetvannesimulatorho/main/yochaiwallywalapsxkoscript"))()
+else
+if place == 6872265039 then ---bed war
+loadstring(game:HttpGet("https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/main/NewMainScript.lua", true))()
+else
+if place == 3956818381 then ---ninja legend
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/DEVIL-loader-remake/main/Ninja-Legend", true))()
+else
+if place == 3857052864 then ---https://www.roblox.com/games/3857052864/The-Rake-Fan-Remake
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/DEVIL-loader-remake/main/Rake%20Script"))()
+else
+if place == 286090429 then ---arsenal
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/RandomAdamYT/DarkHub/master/Init'), true))()
+else
+if place == 7393403076 then ---anime artifact
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DevPolarhub/AnimeArtifacts/main/script"))()
+else
+if place == 7541759836 then ---https://www.roblox.com/games/7541759836/unnamed
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/DEVIL-loader-remake/main/Chinese%20game%20%E5%87%B9%E5%87%B8%E4%B8%96%E7%95%8C%EF%BC%9A%E8%87%AA%E7%94%B1%E4%B8%9B%E6%9E%97"))()
+else
+if place == 7549229959 then ---Squid Game
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/Bebo-Mods/BeboScripts/main/SquidGame.lua")))()
+else
+if place == 6679274937 then ---vans world
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/Prajon/DEVIL-loader-remake/main/Vans%20World")))()
+else
+if place == 2986677229 then --
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Prajon/DEVIL-loader-remake/main/Giant-Simulator')))()
+else
+if place == 1537690962 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/DEVIL-Remake/main/Bee-Swarm-Simulator", true))()
+else
+if place == 7508789810 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/DEVIL-loader-remake/main/Devious-Lick-Simulator-OP-Script", true))()
+else
+if place == 7560156054 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/DEVIL-loader-remake/main/Clicker-Simulator", true))()
+else
+if place == 3089478851 then --wizard simulator
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/DEVIL-loader-remake/main/Wizard-Simulator", true))()
+else
+if place == 1828509885 then --egg farm simulator
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/DEVIL-loader-remake/main/Egg-Farm-Simulator", true))()
+else
+if place == 8592863835 then --magnet simulator 2
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/DEVIL-loader-remake/main/Magnet-Simulator-2", true))()
+else
+if place == 3101667897 then --legend of speed
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/DEVIL-loader-remake/main/Legend-Of-Speed", true))()
+else
+if place == 3623096087 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/DEVIL-loader-remake/main/Muscle-Legends", true))()
+else
+if place == 2629642516 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/DEVIL-loader-remake/main/Bitcoin-Miner", true))()
+else
+if place == 8554378337 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/DEVIL-loader-remake/main/Weapon-Fighting-Simulator", true))()
+else
+if place == 8884433153 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/DEVIL-loader-remake/main/Collect-All-Pets", true))()
+else
+if place == 8893378293 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/DEVIL-loader-remake/main/GRAMMY-Week", true))()
+else
+if place == 8750997647 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/DEVIL-loader-remake/main/Tapping-Legend-X", true))()
+else
+if place == 9049840490 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/DEVIL-loader-remake/main/Sonic-Speed-Simulator", true))()
+else
+if place == 8328351891 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/DEVIL-loader-remake/main/Mega-Mansion-Tycoon", true))()
+else
+if place == 5977280685 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/DEVIL-loader-remake/main/Ninja-Legend-2", true))()
+
+
+
+end
+end
+end
+end
+end
+end
+end
+end
+end
+end
+end
+end
+end
+end
+end
+end
+end
+end
+end		
+end
+end
+end
+end
+end
+end
+end
 end
