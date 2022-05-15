@@ -82,9 +82,14 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/DEVIL-loader-r
 else
 if place == 5977280685 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/DEVIL-loader-remake/main/Ninja-Legend-2", true))()
+if place == 8069117419 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/DEVIL-loader-remake/main/Demon-Soul-Simulator", true))()
 
 
 
+
+
+end
 end
 end
 end
