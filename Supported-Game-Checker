@@ -24,7 +24,8 @@ supportedgame = {
 [8893378293] = true, -- GRAMMY Week
 [8750997647] = true, --tapping legend x
 [5977280685] = true, --Ninja Legend 2
-[8069117419] = true --Demon Soul Simulator
+[8069117419] = true, --Demon Soul Simulator
+[9281034297] = true --Goal Kick Simulator
 
 
 }
