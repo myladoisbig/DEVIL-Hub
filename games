@@ -88,10 +88,13 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/DEVIL-loader-r
 else
 if place == 9281034297 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/DEVIL-loader-remake/main/Goal-Kick-Simulator", true))()
+else
+if place == 2753915549 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/DEVIL-loader-remake/main/Blox-Fruit", true))()
 
 
 
-
+end
 end
 end
 end
