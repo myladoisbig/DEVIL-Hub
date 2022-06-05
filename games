@@ -91,9 +91,13 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/DEVIL-loader-r
 else
 if place == 2753915549 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/DEVIL-loader-remake/main/Blox-Fruit", true))()
+else
+if place == 9551640993 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/DEVIL-loader-remake/main/Mining-Simulator-2", true))()
 
 
 
+end
 end
 end
 end
