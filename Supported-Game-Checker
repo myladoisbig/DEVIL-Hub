@@ -26,7 +26,9 @@ supportedgame = {
 [5977280685] = true, --Ninja Legend 2
 [8069117419] = true, --Demon Soul Simulator
 [9281034297] = true, --Goal Kick Simulator
-[2753915549] = true --Blox Fruit
+[2753915549] = true, --Blox Fruit
+[9551640993] = true --Mining Simulator 2
+
 
 
 }
