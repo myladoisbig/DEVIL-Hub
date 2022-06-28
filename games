@@ -100,8 +100,12 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/DEVIL-loader-r
 else
 if place == 9555732501 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/DEVIL-loader-remake/main/Nen-Fighting-Simulator", true))()
+else
+if place == 6403373529 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/DEVIL-loader-remake/main/Slap-Battle", true))()
 
 
+end
 end
 end
 end
