@@ -29,7 +29,8 @@ supportedgame = {
 [2753915549] = true, --Blox Fruit
 [9551640993] = true, --Mining Simulator 2
 [9681073174] = true, --Gym Training Simulator
-[9555732501] = true --Nen Fighting Simulator
+[9555732501] = true, --Nen Fighting Simulator
+[6403373529] = true
 
 
 
