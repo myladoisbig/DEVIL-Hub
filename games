@@ -103,8 +103,12 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/DEVIL-loader-r
 else
 if place == 6403373529 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/DEVIL-loader-remake/main/Slap-Battle", true))()
+else
+if place == 9498006165 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/DEVIL-loader-remake/main/Tapping-Simulator", true))()
 
 
+end
 end
 end
 end
