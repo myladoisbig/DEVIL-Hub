@@ -106,8 +106,13 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/DEVIL-loader-r
 else
 if place == 9498006165 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/DEVIL-loader-remake/main/Tapping-Simulator", true))()
+else
+if place == 8876694280 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/DEVIL-loader-remake/main/Strong_Simulator_X", true))()
+else
+print("Not Supported Game")
 
-
+end
 end
 end
 end
