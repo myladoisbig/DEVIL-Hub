@@ -1,1 +1,5 @@
-return("lol")
+newkys = {
+  "lol"
+
+}
+return newkys 
