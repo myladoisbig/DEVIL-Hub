@@ -116,11 +116,15 @@ else
 if place == 10198661638 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/DEVIL-loader-remake/main/Farm-Factory-Tycoon", true))()
 else
+if place == 10676523834 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/DEVIL-loader-remake/main/Racing-Rocket", true))()
+else
 
 
 print("Not Supported Game")
 
 
+end
 end
 end
 end
