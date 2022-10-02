@@ -119,11 +119,15 @@ else
 if place == 10676523834 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/DEVIL-loader-remake/main/Racing-Rocket", true))()
 else
+if place == 9992339729 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/DEVIL-loader-remake/main/Longest-Answer-Wins", true))()
+else
 
 
 print("Not Supported Game")
 
 
+end
 end
 end
 end
