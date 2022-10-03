@@ -36,7 +36,8 @@ supportedgame = {
 [7969108904] = true, --Clicking Simulator
 [10198661638] = true, --Farm Factory Tycoon
 [10676523834] = true,--Racing Rocket
-[9992339729] = true --Longest Answer Wins
+[9992339729] = true, --Longest Answer Wins
+[10425191433] = true --Trick Shot Simulator
 
 
 
