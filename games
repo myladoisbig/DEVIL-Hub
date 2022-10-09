@@ -128,10 +128,14 @@ else
 if place == 8612195438 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/DEVIL-loader-remake/main/Clicker-Party-Simulator", true))()
 else
+if place == 10447678365 then 
+loadstring(game:HttpGet("https://github.com/Prajon/DEVIL-loader-remake/blob/main/Dinosaur-Simulator", true))()
+else
 
 print("Not Supported Game")
 
 
+end
 end
 end
 end
