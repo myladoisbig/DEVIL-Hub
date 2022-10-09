@@ -38,7 +38,8 @@ supportedgame = {
 [10676523834] = true,--Racing Rocket
 [9992339729] = true, --Longest Answer Wins
 [10425191433] = true, --Trick Shot Simulator
-[8612195438] = true --Clicker Party Simulator
+[8612195438] = true, --Clicker Party Simulator
+[10447678365] = true --Dinosaur Simulator
 
 
 
