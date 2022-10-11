@@ -131,10 +131,14 @@ else
 if place == 10447678365 then 
 loadstring(game:HttpGet("https://github.com/Prajon/DEVIL-loader-remake/blob/main/Dinosaur-Simulator", true))()
 else
+if place == 10758111998 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/DEVIL-loader-remake/main/2019-Booga-Booga-%5BREBORN%5D", true))()
+else
 
 print("Not Supported Game")
 
 
+end
 end
 end
 end
