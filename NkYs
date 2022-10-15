@@ -1,5 +1,3 @@
-newkys = {
-  "lol";
-
+local NKsNKey = {
+    "2ztnwfDPKjMpSorpveE4",
 }
-return newkys 
