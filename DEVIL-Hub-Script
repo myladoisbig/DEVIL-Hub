@@ -8,7 +8,7 @@ vu:Button2Down(Vector2.new(0,0),workspace.CurrentCamera.CFrame)
 wait(1)
 vu:Button2Up(Vector2.new(0,0),workspace.CurrentCamera.CFrame)
 end)
-print("DEVIL Hub v1.025")
+print("DEVIL Hub v1.026")
 
 
 _, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
