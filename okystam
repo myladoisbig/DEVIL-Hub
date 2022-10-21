@@ -1,15 +1,21 @@
-Outdatedks = {
-	"gIfvHOYVsUg669Bpkaye";
-	"dRsckeiZ7DhXXOrK";
-	"pLecVWzCmZSWxOX";
-	"EX87WfA3VVgHCDt";
-	"B7KIYg2dw0o5v5O";
-	"0L7Q1zVaaN69RO90Vwef";
-	"m69yaojxNk8psoQR68hj";
-	"Ig7d07GErsNLhJtCgCcy";
-	"NdUAlzI3mbZWdh2wxzwT";
-	"Gyv6TGs9IUhdTi2AjsoN";
-	"iIUlOqnf2IsiA6VZu1x3";
+NKsOkEy = {
+    "B7KIYg2dw0o5v5O",
+    "EX87WfA3VVgHCDt",
+    "pLecVWzCmZSWxOX",
+    "dRsckeiZ7DhXXOrK",
+    "gIfvHOYVsUg669Bpkaye",
+    "0L7Q1zVaaN69RO90Vwef",
+    "m69yaojxNk8psoQR68hj",
+    "NdUAlzI3mbZWdh2wxzwT",
+    "Gyv6TGs9IUhdTi2AjsoN",
+    "iIUlOqnf2IsiA6VZu1x3",
+    "Ut5l0jdZrwZo7v4lBzpp",
+    "2cERbkaQrCE4bTUbeQcr",
+    "DyxdlvplhMn68ETikadh",
+    "xGIdUalQsvnFqhmYaz0I",
+    "2ztnwfDPKjMpSorpveE4",
+    "V4wkoHyr7Qc540dFQLt9",
+    "Wa1rqwwTiICzsxCIXPED"
 
 }
-return Outdatedks 
+return(NKsOkEy)
