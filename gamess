@@ -140,7 +140,11 @@ function IllIlllIllIlllIlllIlllIll(IllIlllIllIllIll) if (IllIlllIllIllIll==(((((
 
 else
 
-print("Not Supported Game")
+for i,v in pairs(game:GetService("CoreGui"):GetChildren()) do
+	if v.Name == "DEVIL Message" and v:FindFirstChild("TextLabel") then
+		v:FindFirstChild("TextLabel").Text = "Warning!!!\nNot Supported Game.\nDiscord Link copied!!!"
+	end
+end
 
 
 end
