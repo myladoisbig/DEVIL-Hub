@@ -1,5 +1,31 @@
-local place = game.PlaceId
 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/myladoisbig/DEVIL-Hub/main/you-cant-use-devil-script", true))()
+for i,v in pairs(game:GetService("CoreGui"):GetChildren()) do
+	if v.Name == "DEVIL Message" and v:FindFirstChild("TextLabel") then
+		v:FindFirstChild("TextLabel").Text = "Script is down at the moment!!!\nIt will be fix as soon as possible."
+	end
+end
+local req = (syn and syn.request or http_request or http.request)
+req({
+	Url = "http://127.0.0.1:6463/rpc?v=1",
+	Method = "POST",
+	Headers = {
+		["Content-Type"] = "application/json",
+		["Origin"] = "https://discord.com"
+	},
+	Body = game:GetService("HttpService"):JSONEncode({
+		cmd = "INVITE_BROWSER",
+		args = {
+			code = "NpCftEHEuh"
+		},
+		nonce = game:GetService("HttpService"):GenerateGUID(false)
+	}),
+ })
+
+
+
+--[[
+local place = game.PlaceId
 
 if place == 3823781113 then -- saber sim
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/Saber-Simulator/main/Saber-Simulator-FREE-SCRIPT", true))()
@@ -207,3 +233,6 @@ end
 end
 end
 end
+
+
+]]
