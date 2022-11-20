@@ -21,6 +21,16 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/DEVIL-Script/DEVIL-Hu
 
 else
 
+if place == 2986677229 then --GiantSimulator --5
+loadstring(game:HttpGet("https://raw.githubusercontent.com/myladoisbig/DEVIL-Hub/main/you-cant-use-devil-script", true))()
+for i,v in pairs(game:GetService("CoreGui"):GetChildren()) do
+	if v.Name == "DEVIL Message" and v:FindFirstChild("TextLabel") then
+		v:FindFirstChild("TextLabel").Text = "Notice \n Script is not released yet. \n if the youtube video reaches 30+ then \n script will be released asap"
+	end
+end
+
+else
+
 loadstring(game:HttpGet("https://raw.githubusercontent.com/myladoisbig/DEVIL-Hub/main/you-cant-use-devil-script", true))()
 for i,v in pairs(game:GetService("CoreGui"):GetChildren()) do
 	if v.Name == "DEVIL Message" and v:FindFirstChild("TextLabel") then
@@ -46,6 +56,7 @@ req({
 
 
 
+end --5
 end --4
 end --3
 end --2
