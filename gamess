@@ -1,6 +1,6 @@
 
 local place = game.PlaceId
-if place == 10758111998 or place == 10767870749 or place == 11447840296 then --BoogaBoogaReborn --1
+if place == 10758111998 or place == 10767870749 or place == 11447840296 or place == 8982094594 then --BoogaBoogaReborn --1
 if place == 11447840296 then
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/myladoisbig/DEVIL-Hub/main/you-cant-use-devil-script", true))()
 	for i,v in pairs(game:GetService("CoreGui"):GetChildren()) do
