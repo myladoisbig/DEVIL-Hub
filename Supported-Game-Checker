@@ -48,8 +48,8 @@ supportedgame = {
 [6679968919] = true, --FlyRace
 [11109756592] = true, --YoutubeSimulatorZ
 [8506369721] = true, --dit to china
-[11445923563] = true --One Fruit Simulator [BETA FREE]
-
+[11445923563] = true, --One Fruit Simulator [BETA FREE]
+[11040063484] = true --Sword Fighters Simulator
 
 }
 return supportedgame 
