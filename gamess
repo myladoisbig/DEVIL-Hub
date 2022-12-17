@@ -65,7 +65,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/DEVIL-Script/DEVIL-Hu
 else
 
 if place == 11040063484 then --11
-loadstring(game:HttpGet("https://raw.githubusercontent.com/DEVIL-Script/DEVIL-Hub/main/Sword-Fighters-Simulator", true))()
+--loadstring(game:HttpGet("https://raw.githubusercontent.com/DEVIL-Script/DEVIL-Hub/main/Sword-Fighters-Simulator", true))()
 
 else
 
