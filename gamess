@@ -1,6 +1,6 @@
 
-local place = game.PlaceId --11729688377 realboogabooga
-if place == 11729688377 or place == 10758111998 or place == 10767870749 or place == 11447840296 or place == 8982094594 or place == 11522556092 or place == 11157946245 or place == 11728760708 then --BoogaBoogaReborn --1
+local place = game.PlaceId --11729688377 11879754496 realboogabooga
+if place == 11729688377 or place == 11879754496 or place == 10758111998 or place == 10767870749 or place == 11447840296 or place == 8982094594 or place == 11522556092 or place == 11157946245 or place == 11728760708 then --BoogaBoogaReborn --1
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/DEVIL-Script/DEVIL-Hub/main/Booga-Booga-Reborn", true))()
 _, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
