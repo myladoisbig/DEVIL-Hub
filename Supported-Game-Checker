@@ -53,7 +53,8 @@ supportedgame = {
 [11109756592] = true, --YoutubeSimulatorZ
 [8506369721] = true, --dit to china
 [11445923563] = true, --One Fruit Simulator [BETA FREE]
-[11040063484] = true --Sword Fighters Simulator
+[11040063484] = true, --Sword Fighters Simulator
+[11872204048] = true --GetBigX
 
 }
 return supportedgame 
