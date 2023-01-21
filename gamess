@@ -75,6 +75,11 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/DEVIL-Script/DEVIL-Hu
 
 else
 
+if place == 11542692507 then --14
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DEVIL-Script/DEVIL-Hub/main/AnimeSoulsSimulator", true))()
+
+else
+
 loadstring(game:HttpGet("https://raw.githubusercontent.com/myladoisbig/DEVIL-Hub/main/you-cant-use-devil-script", true))()
 for i,v in pairs(game:GetService("CoreGui"):GetChildren()) do
 	if v.Name == "DEVIL Message" and v:FindFirstChild("TextLabel") then
@@ -99,6 +104,7 @@ req({
  })
 
 
+end --14
 end --13
 end --12
 end --11
