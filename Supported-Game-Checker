@@ -55,7 +55,8 @@ supportedgame = {
 [11445923563] = true, --One Fruit Simulator [BETA FREE]
 [11040063484] = true, --Sword Fighters Simulator
 [11872204048] = true, --GetBigX
-[11542692507] = true --Anime Souls Simulator
+[11542692507] = true, --Anime Souls Simulator
+[3652625463] = true --Lifting Simulator
 
 }
 return supportedgame 
