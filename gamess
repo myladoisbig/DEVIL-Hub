@@ -85,6 +85,12 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/DEVIL-Script/DEVIL-Hu
 
 else
 
+if place == 3101667897 or place == 3232996272 then --16
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DEVIL-Script/DEVIL-Hub/main/Legend-Of-Speed", true))()
+
+
+else
+
 loadstring(game:HttpGet("https://raw.githubusercontent.com/myladoisbig/DEVIL-Hub/main/you-cant-use-devil-script", true))()
 for i,v in pairs(game:GetService("CoreGui"):GetChildren()) do
 	if v.Name == "DEVIL Message" and v:FindFirstChild("TextLabel") then
@@ -109,6 +115,7 @@ req({
  })
 
 
+end --16
 end --15
 end --14
 end --13
