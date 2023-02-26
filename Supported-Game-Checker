@@ -57,7 +57,8 @@ supportedgame = {
 [11040063484] = true, --Sword Fighters Simulator
 [11872204048] = true, --GetBigX
 [11542692507] = true, --Anime Souls Simulator
-[3652625463] = true --Lifting Simulator
+[3652625463] = true, --Lifting Simulator
+[11118216071] = true --Pet Trading Card Simulator
 
 }
 return supportedgame 
