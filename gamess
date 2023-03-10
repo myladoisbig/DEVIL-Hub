@@ -101,7 +101,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/DEVIL-Script/DEVIL-Hu
 
 else
 
-if place == 8568266872 then --19
+if place == 8568266872 or place == 12538889612 then --19
 loadstring(game:HttpGet("https://raw.githubusercontent.com/DEVIL-Script/DEVIL-Hub/main/Kill-Monsters-to-Save-Princess", true))()
 
 else
