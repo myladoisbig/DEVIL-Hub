@@ -62,6 +62,7 @@ supportedgame = {
 [10945472407] = true, --Strong Muscle Simulator
 [8568266872] = true, --Kill Monsters to Save Princess
 [12538889612] = true --Kill Monsters to Save Princess
+[12645083079] = true --Giant Simulator Classic
 
 }
 return supportedgame 
