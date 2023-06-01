@@ -116,6 +116,11 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/DEVIL-Script/DEVIL-Hu
 
 else
 
+if place == 12135645852 then -- 22
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DEVIL-Script/DEVIL-Hub/main/Anime-Catching-Simulator", true))()
+
+else
+
 loadstring(game:HttpGet("https://raw.githubusercontent.com/myladoisbig/DEVIL-Hub/main/you-cant-use-devil-script", true))()
 for i,v in pairs(game:GetService("CoreGui"):GetChildren()) do
 	if v.Name == "DEVIL Message" and v:FindFirstChild("TextLabel") then
@@ -140,6 +145,7 @@ req({
  })
 
 
+end --22
 end --21
 end --20
 end --19
