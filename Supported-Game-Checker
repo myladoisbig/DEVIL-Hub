@@ -63,7 +63,8 @@ supportedgame = {
 [8568266872] = true, --Kill Monsters to Save Princess
 [12538889612] = true, --Kill Monsters to Save Princess
 [12645083079] = true, --Giant Simulator Classic
-[10704789056] = true --Drive World
+[10704789056] = true, --Drive World
+[12135645852] = true --Anime Catching Simulator
 
 }
 return supportedgame 
