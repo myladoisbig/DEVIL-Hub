@@ -126,6 +126,11 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/DEVIL-Script/DEVIL-Hu
 
 else
 
+if place == 12986400307 then --24
+https://raw.githubusercontent.com/DEVIL-Script/DEVIL-Hub/main/Sword-Warriors
+
+else
+
 loadstring(game:HttpGet("https://raw.githubusercontent.com/myladoisbig/DEVIL-Hub/main/you-cant-use-devil-script", true))()
 for i,v in pairs(game:GetService("CoreGui"):GetChildren()) do
 	if v.Name == "DEVIL Message" and v:FindFirstChild("TextLabel") then
@@ -150,6 +155,7 @@ req({
  })
 
 
+end --24
 end --23
 end --22
 end --21
