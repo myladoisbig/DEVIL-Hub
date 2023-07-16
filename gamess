@@ -127,7 +127,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/DEVIL-Script/DEVIL-Hu
 else
 
 if place == 12986400307 then --24
-https://raw.githubusercontent.com/DEVIL-Script/DEVIL-Hub/main/Sword-Warriors
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DEVIL-Script/DEVIL-Hub/main/Sword-Warriors", true))()
 
 else
 
