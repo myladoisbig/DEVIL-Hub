@@ -65,7 +65,8 @@ supportedgame = {
 [12645083079] = true, --Giant Simulator Classic
 [10704789056] = true, --Drive World
 [12135645852] = true, --Anime Catching Simulator
-[12218138312] = true --Streamer Life
+[12218138312] = true, --Streamer Life
+[12986400307] = true --sword warrior
 
 }
 return supportedgame 
