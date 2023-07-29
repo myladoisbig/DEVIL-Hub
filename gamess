@@ -131,7 +131,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/DEVIL-Script/DEVIL-Hu
 
 else
 
-if place == 11430498851 then --25
+if place == 11430498851 or place == 14175228555 or place == 14185839068 then --25
 loadstring(game:HttpGet("https://raw.githubusercontent.com/DEVIL-Script/DEVIL-Hub/main/Building-towers-to-fly-farther", true))()
 
 else
