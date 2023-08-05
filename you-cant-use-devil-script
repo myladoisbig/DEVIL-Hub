@@ -1,8 +1,3 @@
--- Gui to Lua
--- Version: 3.2
-
--- Instances:
-
 local ScreenGui = Instance.new("ScreenGui")
 local TextLabel = Instance.new("TextLabel")
 local UIAspectRatioConstraint = Instance.new("UIAspectRatioConstraint")
@@ -36,7 +31,7 @@ local function AJXPYE_fake_script() -- TextLabel.Script
 	local lp = game.Players.LocalPlayer.Name
 	
 	
-	script.Parent.Text = "Hello " ..lp .." Please join roblox group:\nwww.roblox.com/groups/8939440/SenpaiChou\nto verify yourself.\nif you need any help then make sure to join:\ndiscord.gg/FhzbB7hXGr"
+	script.Parent.Text = _G.DevMessage or "Hello " ..lp .." Please join roblox group:\nwww.roblox.com/groups/8939440/SenpaiChou\nto verify yourself.\nif you need any help then make sure to join:\ndiscord.gg/FhzbB7hXGr"
 	
 	wait(15)
 	
