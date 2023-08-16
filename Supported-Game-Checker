@@ -69,7 +69,8 @@ supportedgame = {
 [12986400307] = true, --sword warrior
 [11430498851] = true, --Building towers to fly farther 1
 [14175228555] = true, --Building towers to fly farther 2
-[14185839068] = true --Building towers to fly farther 2
+[14185839068] = true, --Building towers to fly farther 2
+[12996550309] = true --RunStar Simulator
 
 }
 return supportedgame 
