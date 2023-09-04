@@ -74,7 +74,8 @@ supportedgame = {
 [13335973664] = true, --Energy Simulator
 [14236123211] = true, --Punch Simulator
 [13698105873] = true, --Skibid-Toilet-Attack
-[14372616578] = true --Skibid-Toilet-Attack2
+[14372616578] = true, --Skibid-Toilet-Attack2
+[8328351891] = true --Mega Mansion Tycoon
 
 }
 return supportedgame 
