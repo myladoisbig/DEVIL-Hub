@@ -73,7 +73,8 @@ supportedgame = {
 [12996550309] = true, --RunStar Simulator
 [13335973664] = true, --Energy Simulator
 [14236123211] = true, --Punch Simulator
-[13698105873] = true --Skibid-Toilet-Attack
+[13698105873] = true, --Skibid-Toilet-Attack
+[14372616578] = true --Skibid-Toilet-Attack2
 
 }
 return supportedgame 
