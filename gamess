@@ -151,7 +151,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/DEVIL-Script/DEVIL-Hu
 
 else
 
-if place == 13698105873 then --29
+if place == 13698105873 or place == 14372616578 then --29
 loadstring(game:HttpGet("https://raw.githubusercontent.com/DEVIL-Script/DEVIL-Hub/main/Skibid-Toilet-Attack", true))()
 
 else
