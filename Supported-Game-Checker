@@ -72,7 +72,8 @@ supportedgame = {
 [14185839068] = true, --Building towers to fly farther 2
 [12996550309] = true, --RunStar Simulator
 [13335973664] = true, --Energy Simulator
-[14236123211] = true --Punch Simulator
+[14236123211] = true, --Punch Simulator
+[13698105873] = true --Skibid-Toilet-Attack
 
 }
 return supportedgame 
