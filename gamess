@@ -171,6 +171,11 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/DEVIL-Script/DEVIL-Hu
 
 else
 
+if place == 14330243992 then --33
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DEVIL-Script/DEVIL-Hub/main/Power-Slap-Simulator", true))()
+
+else
+
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/myladoisbig/DEVIL-Hub/main/you-cant-use-devil-script", true))()
 for i,v in pairs(game:GetService("CoreGui"):GetChildren()) do
@@ -196,6 +201,7 @@ req({
  })
 
 
+end --33
 end --32
 end --31
 end --30
