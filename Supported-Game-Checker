@@ -77,7 +77,8 @@ supportedgame = {
 [14372616578] = true, --Skibid-Toilet-Attack2
 [8328351891] = true, --Mega Mansion Tycoon
 [13780662126] = true, --Yeet a Plane Simulator
-[13370783664] = true --Anime Energy Clash Simulator
+[13370783664] = true, --Anime Energy Clash Simulator
+[14330243992] = true --Power Slap Simulator
 
 }
 return supportedgame 
