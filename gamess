@@ -176,6 +176,11 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/DEVIL-Script/DEVIL-Hu
 
 else
 
+if place == 13772394625 or place == 14732610803 then --34
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DEVIL-Script/DEVIL-Hub/main/Blade-Ball", true))()
+
+else
+
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/myladoisbig/DEVIL-Hub/main/you-cant-use-devil-script", true))()
 for i,v in pairs(game:GetService("CoreGui"):GetChildren()) do
@@ -201,6 +206,7 @@ req({
  })
 
 
+end --34
 end --33
 end --32
 end --31
