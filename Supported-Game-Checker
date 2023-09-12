@@ -80,7 +80,8 @@ supportedgame = {
 [13370783664] = true, --Anime Energy Clash Simulator
 [14330243992] = true, --Power Slap Simulator
 [13772394625] = true, --Blade Ball
-[14732610803] = true --Blade Ball Pro
+[14732610803] = true, --Blade Ball Pro
+[7849447103] = true --Tap Simulator X
 
 
 }
