@@ -78,7 +78,10 @@ supportedgame = {
 [8328351891] = true, --Mega Mansion Tycoon
 [13780662126] = true, --Yeet a Plane Simulator
 [13370783664] = true, --Anime Energy Clash Simulator
-[14330243992] = true --Power Slap Simulator
+[14330243992] = true, --Power Slap Simulator
+[13772394625] = true, --Blade Ball
+[14732610803] = true --Blade Ball Pro
+
 
 }
 return supportedgame 
