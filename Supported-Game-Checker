@@ -81,7 +81,8 @@ supportedgame = {
 [14330243992] = true, --Power Slap Simulator
 [13772394625] = true, --Blade Ball
 [14732610803] = true, --Blade Ball Pro
-[7849447103] = true --Tap Simulator X
+[7849447103] = true, --Tap Simulator X
+[126884695634066] = true --GAG
 
 
 }
