@@ -184,6 +184,11 @@ else
 if place == 7849447103 then --35
 loadstring(game:HttpGet("https://raw.githubusercontent.com/DEVIL-Script/DEVIL-Hub/main/Tap-Simulator-X", true))()
 
+
+if place == 126884695634066 then --36
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DEVIL-Script/DEVIL-Hub/refs/heads/main/GAG", true))()
+
+
 else
 
 
@@ -210,7 +215,7 @@ req({
 	}),
  })
 
-
+end --36
 end --35
 end --34
 end --33
