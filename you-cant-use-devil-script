@@ -41,15 +41,17 @@ coroutine.wrap(AJXPYE_fake_script)()
 local function PLOOY_fake_script() -- TextLabel.Rainbower 
 	local script = Instance.new('LocalScript', TextLabel)
 	spawn(function()
-		while wait() do
+		while wait(0.03) do -- faster update (original was ~0.1s or more)
 			pcall(function()
-				local r = (math.sin(workspace.DistributedGameTime/2)/2)+0.5
-				local g = (math.sin(workspace.DistributedGameTime)/2)+0.5
-				local b = (math.sin(workspace.DistributedGameTime*1.5)/2)+0.5
-				local color = Color3.new(r, g, b)
-				script.Parent.TextColor3 = color
+				local t = workspace.DistributedGameTime * 4 -- increased speed multiplier
+				local r = (math.sin(t) / 2) + 0.5
+				local g = (math.sin(t + 2) / 2) + 0.5
+				local b = (math.sin(t + 4) / 2) + 0.5
+				script.Parent.TextColor3 = Color3.new(r, g, b)
 			end)
 		end
 	end)
 end
+
 coroutine.wrap(PLOOY_fake_script)()
+
