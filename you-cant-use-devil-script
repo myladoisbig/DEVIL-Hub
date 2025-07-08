@@ -33,7 +33,7 @@ local function AJXPYE_fake_script() -- TextLabel.Script
 	
 	script.Parent.Text = _G.DevMessage or "Hello " ..lp .." Please join roblox group:\nwww.roblox.com/groups/8939440/SenpaiChou\nto verify yourself.\nif you need any help then make sure to join:\ndiscord.gg/FhzbB7hXGr"
 	
-	wait(15)
+	wait(5)
 	
 	script.Parent.Parent:Destroy()
 end
