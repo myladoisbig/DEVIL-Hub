@@ -14,7 +14,7 @@ end
 
 else
 
-if place == 3823781113 then --SaberSimulator --2
+if place == 3823781113 or place == 71460947057345 then --SaberSimulator --2
 loadstring(game:HttpGet("https://raw.githubusercontent.com/DEVIL-Script/DEVIL-Hub/main/Saber-Simulator-Last", true))()
 
 else
