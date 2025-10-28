@@ -192,6 +192,12 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/DEVIL-Script/DEVIL-Hu
 
 else
 
+if place == 74260430392611 then --37
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DEVIL-Script/DEVIL-Hub/refs/heads/main/Rebirth-Champions-Ultimate.lua", true))()
+
+
+else
+
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/myladoisbig/DEVIL-Hub/main/you-cant-use-devil-script", true))()
 for i,v in pairs(game:GetService("CoreGui"):GetChildren()) do
@@ -216,6 +222,9 @@ req({
 	}),
  })
 
+
+
+end --37
 end --36
 end --35
 end --34
