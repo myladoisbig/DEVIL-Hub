@@ -83,7 +83,8 @@ supportedgame = {
 [13772394625] = true, --Blade Ball
 [14732610803] = true, --Blade Ball Pro
 [7849447103] = true, --Tap Simulator X
-[126884695634066] = true --GAG
+[126884695634066] = true, --GAG
+[74260430392611] = true --RebirthChampion
 
 
 }
